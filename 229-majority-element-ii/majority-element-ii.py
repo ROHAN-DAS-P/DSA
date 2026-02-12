@@ -1,7 +1,7 @@
 class Solution(object):
     def majorityElement(self, arr):
         """
-        :type nums: List[int]
+        :type arr: List[int]
         :rtype: List[int]
         """
         n = len(arr)
